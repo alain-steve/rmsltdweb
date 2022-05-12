@@ -1,0 +1,34 @@
+{
+  "name": "updates",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "032bd8bbd70adf90ead98b6813bfe446",
+      "css": "newspaper",
+      "code": 61930,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "18be7ed7a4baf5713f2de51bf83b12f2",
+      "css": "newspaper-1",
+      "code": 62704,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "f978da58836f23373882916f05fb70b4",
+      "css": "doc",
+      "code": 59392,
+      "src": "linecons"
+    },
+    {
+      "uid": "uetwmlvm6z9eaot1t74vvsgrte9vwi0n",
+      "css": "bullhorn",
+      "code": 59393,
+      "src": "modernpics"
+    }
+  ]
+}

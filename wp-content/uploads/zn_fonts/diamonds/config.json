@@ -1,0 +1,22 @@
+{
+  "name": "diamonds",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "f85affb51c357be83d187344c8c6e35c",
+      "css": "diamond-1",
+      "code": 61977,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f8e8b267a9b949804f0c9dd7fed8e477",
+      "css": "diamond",
+      "code": 59409,
+      "src": "linecons"
+    }
+  ]
+}

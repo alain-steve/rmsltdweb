@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Continuous announcement scroller\n"
+"POT-Creation-Date: 2021-07-20 21:20+0800\n"
+"PO-Revision-Date: 2021-07-20 21:20+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../continuous-announcement-scroller.php:221
+#: ../continuous-announcement-scroller.php:257
+#: ../continuous-announcement-scroller.php:258
+#: ../continuous-announcement-scroller.php:271
+#: ../continuous-announcement-scroller.php:277
+#: ../pages/content-management-add.php:114
+#: ../pages/content-management-edit.php:137
+#: ../pages/content-management-show.php:53 ../pages/content-setting.php:6
+msgid "Continuous announcement scroller"
+msgstr "Ciągły komunikat scroller"
+
+#: ../continuous-announcement-scroller.php:315
+#: ../pages/content-management-add.php:35
+#: ../pages/content-management-edit.php:64
+msgid "Please enter the announcement."
+msgstr "Proszę wprowadzić tekst/ogłoszenia."
+
+#: ../continuous-announcement-scroller.php:316
+#: ../pages/content-management-add.php:28
+#: ../pages/content-management-edit.php:57
+msgid "Please enter the link."
+msgstr "Wprowadź swój"
+
+#: ../continuous-announcement-scroller.php:317
+#: ../pages/content-management-add.php:51
+#: ../pages/content-management-edit.php:78
+msgid "Please select the display status."
+msgstr "Wybierz stan wyświetlacza."
+
+#: ../continuous-announcement-scroller.php:318
+#: ../pages/content-management-add.php:42
+#: ../pages/content-management-edit.php:71
+msgid "Please enter the display order, only number."
+msgstr "Proszę wprowadzić swoją kolejność wyświetlania."
+
+#: ../continuous-announcement-scroller.php:319
+msgid "Do you want to delete this record?"
+msgstr ""
+
+#: ../pages/content-management-add.php:58
+#: ../pages/content-management-add.php:139
+#: ../pages/content-management-edit.php:85
+#: ../pages/content-management-edit.php:162
+msgid "Please enter the announcement publish date in this format YYYY-MM-DD."
+msgstr "Podaj ogłoszenie daty opublikowania w tym formacie RRRR-MM-DD."
+
+#: ../pages/content-management-add.php:65
+#: ../pages/content-management-edit.php:92
+msgid "Please enter the expiration date in this format YYYY-MM-DD "
+msgstr "Podaj ogłoszenie daty opublikowania w tym formacie RRRR-MM-DD."
+
+#: ../pages/content-management-add.php:80
+msgid "New details was successfully added."
+msgstr "Nowe szczegóły została pomyślnie dodana."
+
+#: ../pages/content-management-add.php:107
+#: ../pages/content-management-edit.php:130
+msgid "Click here to view the details"
+msgstr "Kliknij tutaj, aby zobaczyć szczegóły"
+
+#: ../pages/content-management-add.php:116
+msgid "Add details"
+msgstr "Udostępniaj"
+
+#: ../pages/content-management-add.php:118
+#: ../pages/content-management-edit.php:141
+msgid "Announcement"
+msgstr "Ogłoszenie"
+
+#: ../pages/content-management-add.php:120
+#: ../pages/content-management-edit.php:143
+msgid "Please enter your announcement."
+msgstr "Proszę wprowadzić swoją zapowiedź."
+
+#: ../pages/content-management-add.php:122
+#: ../pages/content-management-edit.php:145
+msgid "Link"
+msgstr "Link"
+
+#: ../pages/content-management-add.php:124
+#: ../pages/content-management-edit.php:147
+msgid ""
+"When someone clicks on the announcement, where do you want to send them?. "
+"url must start with either http or https."
+msgstr ""
+"Gdy ktoś kliknie na ogłoszenie, w którym chcesz wysłać je ?. url musi "
+"zaczynać się od http lub https."
+
+#: ../pages/content-management-add.php:126
+#: ../pages/content-management-edit.php:149
+msgid "Display order"
+msgstr "Kolejność wyświetlania"
+
+#: ../pages/content-management-add.php:128
+#: ../pages/content-management-edit.php:151
+msgid "Enter your display order, only number."
+msgstr "Proszę wprowadzić swoją kolejność wyświetlania."
+
+#: ../pages/content-management-add.php:130
+#: ../pages/content-management-edit.php:153
+msgid "Display status"
+msgstr "Stan wyświetlacza"
+
+#: ../pages/content-management-add.php:135
+#: ../pages/content-management-edit.php:158
+msgid "Please select your display status."
+msgstr "Proszę wybrać swój stan wyświetlacza."
+
+#: ../pages/content-management-add.php:137
+#: ../pages/content-management-edit.php:160
+#: ../pages/content-management-show.php:69
+#: ../pages/content-management-show.php:79
+msgid "Publish"
+msgstr "Opublikuj"
+
+#: ../pages/content-management-add.php:141
+#: ../pages/content-management-edit.php:164
+msgid "Expiration date"
+msgstr "Data wygaśnięcia"
+
+#: ../pages/content-management-add.php:143
+#: ../pages/content-management-edit.php:166
+msgid ""
+"Please enter the expiration date in this format YYYY-MM-DD <br /> "
+"9999-12-30 : Is equal to no expire."
+msgstr ""
+"Proszę podać datę ważności w tym formacie YYYY-MM-DD <br /> 9999-12-31: Czy "
+"równa nie wygaśnie."
+
+#: ../pages/content-management-add.php:148 ../pages/content-setting.php:90
+msgid "Submit"
+msgstr "Wyślij"
+
+#: ../pages/content-management-add.php:149
+#: ../pages/content-management-edit.php:172 ../pages/content-setting.php:91
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ../pages/content-management-add.php:150
+#: ../pages/content-management-edit.php:173
+#: ../pages/content-management-show.php:126 ../pages/content-setting.php:92
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../pages/content-management-edit.php:18
+#: ../pages/content-management-show.php:23
+msgid "Oops, selected details doesnt exist"
+msgstr "Ups, wybrane szczegóły nie istnieją."
+
+#: ../pages/content-management-edit.php:113
+msgid "Details was successfully updated"
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../pages/content-management-edit.php:139
+msgid "Update details"
+msgstr "aktualizacja danych szczegółowych"
+
+#: ../pages/content-management-edit.php:171
+msgid "Update Details"
+msgstr "aktualizacja danych szczegółowych"
+
+#: ../pages/content-management-show.php:41
+msgid "Selected record was successfully deleted."
+msgstr "Wybrany rekord został pomyślnie usunięty."
+
+#: ../pages/content-management-show.php:54
+#: ../pages/content-management-show.php:124
+msgid "Add New"
+msgstr "Dodaj nowy"
+
+#: ../pages/content-management-show.php:65
+#: ../pages/content-management-show.php:75
+msgid "Id"
+msgstr "Id"
+
+#: ../pages/content-management-show.php:66
+#: ../pages/content-management-show.php:76
+msgid "Text"
+msgstr "Tekst"
+
+#: ../pages/content-management-show.php:67
+#: ../pages/content-management-show.php:77
+msgid "Order"
+msgstr "Kolejność"
+
+#: ../pages/content-management-show.php:68
+#: ../pages/content-management-show.php:78
+msgid "Display"
+msgstr "Wyświetlacz"
+
+#: ../pages/content-management-show.php:70
+#: ../pages/content-management-show.php:80
+msgid "Expiration"
+msgstr "Wygasa"
+
+#: ../pages/content-management-show.php:98
+msgid "Edit"
+msgstr "Edytuj"
+
+#: ../pages/content-management-show.php:101
+msgid "Delete"
+msgstr "Usuń"
+
+#: ../pages/content-management-show.php:115
+msgid "No records available."
+msgstr "Rejestry nie są dostępne."
+
+#: ../pages/content-management-show.php:125 ../pages/content-setting.php:53
+msgid "Setting"
+msgstr "Ustawienia"
+
+#: ../pages/content-management-show.php:129
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../pages/content-management-show.php:130
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../pages/content-setting.php:47
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../pages/content-setting.php:55
+msgid "Widget title"
+msgstr "Tytuł widgetu"
+
+#: ../pages/content-setting.php:57
+msgid "Please enter your widget title."
+msgstr "Podaj widget tytuł."
+
+#: ../pages/content-setting.php:59
+msgid "Scroll height"
+msgstr "Wysokość przewijania"
+
+#: ../pages/content-setting.php:61
+msgid ""
+"If any overlap in the announcement text at front end, <br>you should arrange"
+"(increase/decrease) the height."
+msgstr ""
+"Jeżeli którykolwiek pokrywają się w tekście ogłoszenia w przód, <br> należy "
+"zorganizować (wzrost / spadek) powyżej wysokości."
+
+#: ../pages/content-setting.php:63
+msgid "Display record"
+msgstr "Nie znaleziono wpisu"
+
+#: ../pages/content-setting.php:65
+msgid ""
+"Please enter number of records you want to display at the same time in "
+"scroll."
+msgstr ""
+"Podaj liczbę rekordów, które mają być wyświetlane w tym samym czasie w zwoju."
+
+#: ../pages/content-setting.php:67
+msgid "Record to scroll"
+msgstr "Zapis do przewijania"
+
+#: ../pages/content-setting.php:69
+msgid "Please enter maximum number of records to scroll."
+msgstr "Proszę wpisać maksymalną liczbę rekordów, do przewijania."
+
+#: ../pages/content-setting.php:71
+msgid "Random"
+msgstr "Losowo"
+
+#: ../pages/content-setting.php:76
+msgid "Please select random display option."
+msgstr "Opcja wyświetlania losowych"
+
+#: ../pages/content-setting.php:78
+msgid "Scrolling speed"
+msgstr ""
+"Ilości przewijania, oraz opóźnienie przewijania, ustawia szybkość "
+"przewijania."
+
+#: ../pages/content-setting.php:79
+msgid "Slow"
+msgstr "Powoli"
+
+#: ../pages/content-setting.php:81
+msgid "Fast"
+msgstr "Szybko"
+
+#: ../pages/content-setting.php:82
+msgid "Set how fast you want to scroll."
+msgstr "Zestaw jak szybko chcesz przewijać."
+
+#: ../pages/content-setting.php:84
+msgid "Seconds to wait"
+msgstr "Sekund oczekiwania"
+
+#: ../pages/content-setting.php:86
+msgid "How many seconds you want the wait to scroll"
+msgstr "Ile sekund ma czekać do przewijania"
+
+#: ../pages/content-setting.php:86
+msgid "Example"
+msgstr "Przykład"
+
+#~ msgid "Setting Management"
+#~ msgstr "Ustawienia zarządzania"
+
+#~ msgid "Plugin configuration option"
+#~ msgstr "Opcja konfiguracji plugin"
+
+#~ msgid "Add directly in to the theme using PHP code."
+#~ msgstr "Dodaj bezpośrednio do tematu z wykorzystaniem kodu PHP."
+
+#~ msgid "Drag and drop the widget to your sidebar."
+#~ msgstr "Przeciągnij i upuść widget do paska bocznego."

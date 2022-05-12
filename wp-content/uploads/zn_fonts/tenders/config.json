@@ -1,0 +1,40 @@
+{
+  "name": "tenders",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "90e0aff5c929e444038355746a952aaf",
+      "css": "shopping-basket",
+      "code": 62097,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9e8430ce95f56720ae8e7afba291df88",
+      "css": "user-md",
+      "code": 61680,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "46120eb259799eab0dac0691137e5706",
+      "css": "medkit",
+      "code": 61690,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d84a06c5ce6da9ebdc9b0a5cb94db4c4",
+      "css": "heartbeat",
+      "code": 61982,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bc89c320cf57f6c88f1ae7248e12a28f",
+      "css": "thermometer-0",
+      "code": 62155,
+      "src": "fontawesome"
+    }
+  ]
+}

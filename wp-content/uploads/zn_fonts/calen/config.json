@@ -1,0 +1,22 @@
+{
+  "name": "calen",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "dec0ce0476433f7e49e096526cf89465",
+      "css": "hammer",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "599d6c088f4a1c64611b989459d65f6b",
+      "css": "lightbulb",
+      "code": 59393,
+      "src": "elusive"
+    }
+  ]
+}

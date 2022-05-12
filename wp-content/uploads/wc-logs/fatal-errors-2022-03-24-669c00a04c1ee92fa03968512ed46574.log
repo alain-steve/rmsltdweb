@@ -1,0 +1,2 @@
+2022-03-24T05:40:30+00:00 CRITICAL Out of memory (allocated 75497472) (tried to allocate 32768 bytes) in C:\xampp\htdocs\rmsltd\wp-content\plugins\woocommerce\includes\admin\class-wc-admin.php on line 56
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="truck" unicode="&#xe800;" d="M357 64q0 29-21 51t-50 21-50-21-22-51 22-50 50-21 50 21 21 50z m-214 286h214v143h-88q-7 0-12-5l-109-109q-5-5-5-12v-17z m714-286q0 29-21 51t-50 21-50-21-22-51 22-50 50-21 50 21 21 50z m143 607v-571q0-8-2-15t-8-10-9-6-13-4-13-1-14 0-12 0q0-59-42-101t-101-42-101 42-42 101h-214q0-59-42-101t-101-42-101 42-42 101h-36q-1 0-12 0t-15 0-12 1-13 4-9 6-8 10-2 15q0 15 10 25t25 11v178q0 5 0 20t0 21 2 19 3 21 8 17 13 17l110 110q11 11 28 18t33 7h89v107q0 15 11 26t25 10h571q15 0 25-10t11-26z" horiz-adv-x="1000" />
+
+<glyph glyph-name="warehouse" unicode="&#xe840;" d="M475 700l-475-275 100 0 0-400c0-25 22-50 50-50l150 0 0 250c0 28 22 50 50 50l350 0c28 0 49-22 50-50l0-250 150 0c28 0 50 22 50 50l0 400 100 0-475 275c-21 12-42 25-50 25-8 0-28-12-50-25z m-125-475l0-50 350 0 0 50z m0-100l0-50 350 0 0 50z m0-100l0-50 350 0 0 50z" horiz-adv-x="1050" />
+</font>
+</defs>
+</svg>

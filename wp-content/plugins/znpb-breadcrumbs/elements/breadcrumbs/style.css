@@ -1,0 +1,15 @@
+.znBreacrumbEl .breadcrumbs {
+  float: none; }
+
+.znBreacrumbEl .breadcrumbs li {
+  float: none;
+  display: inline-block; }
+
+.znBreacrumbEl .breadcrumbs.bread-style--black li:before {
+  content: "" !important;
+  vertical-align: middle; }
+
+.znBreacrumbEl .breadcrumbs li a:hover {
+  opacity: .8; }
+
+/*# sourceMappingURL=style.css.map */
