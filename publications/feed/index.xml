@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Publications	</title>
-	<atom:link href="/https://alain-steve.github.io/rmsltdweb/publications/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://alain-steve.github.io/rmsltdweb</link>
+	<atom:link href="https://alain-steve.github.io/rmsltdweb/publications/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alain-steve.github.io/rmsltdweb</link>
 	<description></description>
 	<lastBuildDate>Mon, 25 Apr 2022 12:24:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

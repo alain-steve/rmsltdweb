@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Apps &#8211; RMS Ltd</title>
-	<atom:link href="/https://alain-steve.github.io/rmsltdweb/project_category/apps/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://alain-steve.github.io/rmsltdweb</link>
+	<atom:link href="https://alain-steve.github.io/rmsltdweb/project_category/apps/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alain-steve.github.io/rmsltdweb</link>
 	<description></description>
 	<lastBuildDate>Fri, 07 Aug 2015 16:36:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>/https://alain-steve.github.io/rmsltdweb/wp-content/uploads/2022/03/cropped-rms-icon-1-32x32.png</url>
+	<url>https://alain-steve.github.io/rmsltdweb/wp-content/uploads/2022/03/cropped-rms-icon-1-32x32.png</url>
 	<title>Apps &#8211; RMS Ltd</title>
-	<link>/https://alain-steve.github.io/rmsltdweb</link>
+	<link>https://alain-steve.github.io/rmsltdweb</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Progressively harness</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/progressively-harness/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/progressively-harness/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 16:36:41 +0000</pubDate>
@@ -46,7 +46,7 @@
 			</item>
 		<item>
 		<title>Cross-unit meta-services</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/cross-unit-meta-services/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/cross-unit-meta-services/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 16:35:26 +0000</pubDate>
@@ -62,7 +62,7 @@
 			</item>
 		<item>
 		<title>Efficiently incubate sticky vortals</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/efficiently-incubate-sticky-vortals/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/efficiently-incubate-sticky-vortals/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 16:35:09 +0000</pubDate>
@@ -78,7 +78,7 @@
 			</item>
 		<item>
 		<title>Dramatically extend world-class</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/dramatically-extend-world-class/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/dramatically-extend-world-class/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 16:34:01 +0000</pubDate>
@@ -94,7 +94,7 @@
 			</item>
 		<item>
 		<title>Phosfluorescently matrix</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/phosfluorescently-matrix/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/phosfluorescently-matrix/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 13:07:59 +0000</pubDate>

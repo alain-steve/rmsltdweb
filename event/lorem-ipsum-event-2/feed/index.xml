@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Lorem Ipsum Event 2	</title>
-	<atom:link href="/https://alain-steve.github.io/rmsltdweb/event/lorem-ipsum-event-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://alain-steve.github.io/rmsltdweb/event/lorem-ipsum-event-2/</link>
+	<atom:link href="https://alain-steve.github.io/rmsltdweb/event/lorem-ipsum-event-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alain-steve.github.io/rmsltdweb/event/lorem-ipsum-event-2/</link>
 	<description></description>
 	<lastBuildDate>Thu, 12 May 2022 12:52:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

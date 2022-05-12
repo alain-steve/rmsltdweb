@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for RMS Ltd	</title>
-	<atom:link href="/https://alain-steve.github.io/rmsltdweb/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://alain-steve.github.io/rmsltdweb</link>
+	<atom:link href="https://alain-steve.github.io/rmsltdweb/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alain-steve.github.io/rmsltdweb</link>
 	<description></description>
 	<lastBuildDate>Thu, 28 Apr 2022 08:08:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Expansion of Rwanda medical supply reach by Muhirwa		</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/expansion-of-rwanda-medical-supply/#comment-2</link>
+		<link>https://alain-steve.github.io/rmsltdweb/expansion-of-rwanda-medical-supply/#comment-2</link>
 
 		<dc:creator><![CDATA[Muhirwa]]></dc:creator>
 		<pubDate>Thu, 28 Apr 2022 08:08:40 +0000</pubDate>

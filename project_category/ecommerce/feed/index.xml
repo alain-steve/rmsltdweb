@@ -9,8 +9,8 @@
 
 <channel>
 	<title>eCommerce &#8211; RMS Ltd</title>
-	<atom:link href="/https://alain-steve.github.io/rmsltdweb/project_category/ecommerce/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://alain-steve.github.io/rmsltdweb</link>
+	<atom:link href="https://alain-steve.github.io/rmsltdweb/project_category/ecommerce/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alain-steve.github.io/rmsltdweb</link>
 	<description></description>
 	<lastBuildDate>Fri, 07 Aug 2015 16:36:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>/https://alain-steve.github.io/rmsltdweb/wp-content/uploads/2022/03/cropped-rms-icon-1-32x32.png</url>
+	<url>https://alain-steve.github.io/rmsltdweb/wp-content/uploads/2022/03/cropped-rms-icon-1-32x32.png</url>
 	<title>eCommerce &#8211; RMS Ltd</title>
-	<link>/https://alain-steve.github.io/rmsltdweb</link>
+	<link>https://alain-steve.github.io/rmsltdweb</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Progressively harness</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/progressively-harness/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/progressively-harness/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 16:36:41 +0000</pubDate>
@@ -46,7 +46,7 @@
 			</item>
 		<item>
 		<title>Authoritatively benchmark virtual</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/authoritatively-benchmark-virtual/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/authoritatively-benchmark-virtual/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 16:36:09 +0000</pubDate>
@@ -62,7 +62,7 @@
 			</item>
 		<item>
 		<title>Continually unleash scalable</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/continually-unleash-scalable/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/continually-unleash-scalable/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 16:35:42 +0000</pubDate>
@@ -79,7 +79,7 @@
 			</item>
 		<item>
 		<title>Dramatically integrate parallel</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/dramatically-integrate-parallel/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/dramatically-integrate-parallel/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 16:34:51 +0000</pubDate>
@@ -95,7 +95,7 @@
 			</item>
 		<item>
 		<title>Granular e-commerce</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/granular-e-commerce/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/granular-e-commerce/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 16:33:24 +0000</pubDate>
@@ -111,7 +111,7 @@
 			</item>
 		<item>
 		<title>Phosfluorescently matrix</title>
-		<link>/https://alain-steve.github.io/rmsltdweb/portfolio/phosfluorescently-matrix/</link>
+		<link>https://alain-steve.github.io/rmsltdweb/portfolio/phosfluorescently-matrix/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2015 13:07:59 +0000</pubDate>

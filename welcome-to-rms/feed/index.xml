@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Welcome to RMS Ltd	</title>
-	<atom:link href="/https://alain-steve.github.io/rmsltdweb/welcome-to-rms/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://alain-steve.github.io/rmsltdweb/welcome-to-rms/</link>
+	<atom:link href="https://alain-steve.github.io/rmsltdweb/welcome-to-rms/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alain-steve.github.io/rmsltdweb/welcome-to-rms/</link>
 	<description></description>
 	<lastBuildDate>Wed, 30 Mar 2022 12:21:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
